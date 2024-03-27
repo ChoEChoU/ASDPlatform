@@ -1,6 +1,14 @@
 # ASDPlatform
 
    ## Installation
+
+   __My Computing Env__
+    
+    - OS: CentOS7
+    - gcc: 8.3.1
+    - g++: 8.3.1
+    - nvidia: 12.1
+    - cuda: 11.6
     
    __create env__
     
